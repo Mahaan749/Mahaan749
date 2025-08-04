@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning:  Backend development through node.js<br>🎯 Goals: Being the best in my field<br>🎲 Fun fact: I am actually good in my studies</p>
+<p align="center">📚 I'm currently learning:  Bashscripting <br>🎯 Goals: Being the best in my field<br>🎲 Fun fact: I am actually good in my studies</p>
 
 ###
 
